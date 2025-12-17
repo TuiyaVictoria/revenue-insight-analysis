@@ -22,3 +22,8 @@ Revenue by Category
 
 Top 10 Sub-Categories by Sales
 ![Top 10 Sub-Categories by Sales](https://github.com/TuiyaVictoria/revenue-insight-analysis/blob/main/subcategory%20by%20sales.png)
+
+### Actionable Insights
+Optimize Discounts: Data shows that discounts exceeding 20% drastically reduce the average profit per transaction.
+Focus on Technology: While the volume is lower than Office Supplies, the profit margin in Technology is significantly higher.
+Regional Strategy: The West Region outperforms others; a "Deep Dive" into their shipping methods is recommended to replicate success elsewhere.
